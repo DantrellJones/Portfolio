@@ -4,9 +4,9 @@
 
 # Portfolio
  Learn about HTML / CSS / Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
-[Visit Demo Website Hosted by Heroku](https://nitesh--portfolio.herokuapp.com/)
+[Visit Demo Website Hosted by Heroku]()
 
-[Screenshot](![Portfolio](https://user-images.githubusercontent.com/89508196/131475237-15e6cdd7-bd20-4410-aaeb-aed26dbffa6d.png)
+[Screenshot]()
 
 
 ## Tech used
